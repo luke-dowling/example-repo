@@ -1,5 +1,5 @@
 import './App.css';
-import Sara from './components/Sara';
+import {Sara} from './components/Sara';
 function App() {
   return (
     <>
