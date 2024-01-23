@@ -1,5 +1,5 @@
 import React from 'react';
 
-export default function Sara() {
+export const Sara = () => {
   return <div>Hi from Sara</div>;
 }
