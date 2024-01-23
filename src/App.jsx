@@ -1,5 +1,5 @@
 import './App.css';
-import './Footer'
+import './components/Footer'
 
 function App() {
   return (
